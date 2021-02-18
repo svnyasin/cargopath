@@ -72,13 +72,13 @@ Qt Designer, Flutter
 
 **VERİTABANI TASARIMI**
 
-![](https://github.com/svnyasin/cargopath/blob/main/media\image2.png){width="6.3in" height="3.5069444444444446in"}
+![](https://github.com/svnyasin/cargopath/blob/main/media/image2.png){width="6.3in" height="3.5069444444444446in"}
 
 **GÜNCEL GELİŞTİRME SÜRECİ (28.12.2020)**
 
 **CargoPath Desktop**
 
-![](https://github.com/svnyasin/cargopath/blob/main/media\image3.png){width="6.3in" height="5.757638888888889in"}
+![](https://github.com/svnyasin/cargopath/blob/main/media/image3.png){width="6.3in" height="5.757638888888889in"}
 
 Masaüstü uygulamasının arayüz tasarımı ve programlaması büyük oranda
 tamamlanmış olup, girilen veriler bulut sistemine eklenerek qr kod
@@ -86,20 +86,20 @@ oluşturmasını yapmakta.
 
 **CargoPath Mobile**
 
-![](https://github.com/svnyasin/cargopath/blob/main/media\image4.png){width="1.5695330271216097in"
-height="3.4434787839020125in"}![](https://github.com/svnyasin/cargopath/blob/main/media\image5.png){width="1.5596620734908135in"
-height="3.4086964129483817in"}![](https://github.com/svnyasin/cargopath/blob/main/media\image6.png){width="1.5716426071741032in"
+![](https://github.com/svnyasin/cargopath/blob/main/media/image4.png){width="1.5695330271216097in"
+height="3.4434787839020125in"}![](https://github.com/svnyasin/cargopath/blob/main/media/image5.png){width="1.5596620734908135in"
+height="3.4086964129483817in"}![](https://github.com/svnyasin/cargopath/blob/main/media/image6.png){width="1.5716426071741032in"
 height="3.3994805336832896in"}
 
 **Uygulama Ana Ekranı Personel Girişi** **QR Okuma**
 
-![](https://github.com/svnyasin/cargopath/blob/main/media\image7.png){width="1.5739129483814522in"
-height="3.3971128608923884in"}![](https://github.com/svnyasin/cargopath/blob/main/media\image8.png){width="1.5587860892388452in"
-height="3.391213910761155in"}![](https://github.com/svnyasin/cargopath/blob/main/media\image9.png){width="1.5700437445319335in"
+![](https://github.com/svnyasin/cargopath/blob/main/media/image7.png){width="1.5739129483814522in"
+height="3.3971128608923884in"}![](https://github.com/svnyasin/cargopath/blob/main/media/image8.png){width="1.5587860892388452in"
+height="3.391213910761155in"}![](https://github.com/svnyasin/cargopath/blob/main/media/image9.png){width="1.5700437445319335in"
 height="3.432843394575678in"}
 
 **Veri Güncelleme Müşteri Girişi** **Kargo Sorgulama**
 
 **Veritabanı Örnek Veri**
 
-![](https://github.com/svnyasin/cargopath/blob/main/media\image10.png){width="6.3in" height="3.18125in"}
+![](https://github.com/svnyasin/cargopath/blob/main/media/image10.png){width="6.3in" height="3.18125in"}
