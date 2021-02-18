@@ -68,7 +68,7 @@ Qt Designer, Flutter
 
 **Kullanılan Veritabanı:** Firebase Cloud Firestore
 
-![](media\image1.png){width="6.3in" height="4.468055555555556in"}
+![](https://github.com/svnyasin/cargopath/blob/main/media/image1.png){width="6.3in" height="4.468055555555556in"}
 
 **VERİTABANI TASARIMI**
 
