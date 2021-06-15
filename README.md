@@ -70,10 +70,6 @@ Qt Designer, Flutter
 
 ![](https://github.com/svnyasin/cargopath/blob/main/media/image1.png)
 
-**VERİTABANI TASARIMI**
-
-![](https://github.com/svnyasin/cargopath/blob/main/media/image2.png)
-
 **GÜNCEL GELİŞTİRME SÜRECİ (28.12.2020)**
 
 **CargoPath Desktop**
