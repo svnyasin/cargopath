@@ -1,0 +1,6 @@
+package com.example.cargopath
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
